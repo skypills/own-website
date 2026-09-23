@@ -126,7 +126,6 @@ section img {
   margin: 8px 8px 8px 0;
 }
 
-/* Баннер — картинка сразу под меню */
 body > img {
   display: block;
   margin: 10px auto;
@@ -161,7 +160,7 @@ footer {
   width: 35px
 }
 
-#contacts button{
+button{
   background: #026a8d8a;
   width: 200px;
   height: 45px;
